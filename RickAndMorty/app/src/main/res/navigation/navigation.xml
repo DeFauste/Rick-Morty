@@ -7,17 +7,17 @@
 
     <fragment
         android:id="@+id/characters_frag"
-        android:name="com.example.rickandmorty.Characters"
+        android:name="com.example.rickandmorty.ui.Characters"
         android:label="fragment_characters"
         tools:layout="@layout/fragment_characters" />
     <fragment
         android:id="@+id/episodes_frag"
-        android:name="com.example.rickandmorty.Episodes"
+        android:name="com.example.rickandmorty.ui.Episodes"
         android:label="fragment_episodes"
         tools:layout="@layout/fragment_episodes" />
     <fragment
         android:id="@+id/location_frag"
-        android:name="com.example.rickandmorty.Location"
+        android:name="com.example.rickandmorty.ui.Location"
         android:label="fragment_location"
         tools:layout="@layout/fragment_location" />
 </navigation>
