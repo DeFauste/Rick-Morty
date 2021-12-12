@@ -4,12 +4,16 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Debran/Documents/GitHub/Rick-Morty/RickAndMorty/app/src/main/res/drawable/ic_splash_screen.xml" value="0.2703125" />
+        <entry key="..\:/Users/Debran/Documents/GitHub/Rick-Morty/RickAndMorty/app/src/main/res/drawable/item_character.xml" value="0.2703125" />
         <entry key="..\:/Users/Debran/Documents/GitHub/Rick-Morty/RickAndMorty/app/src/main/res/drawable/splash_image.xml" value="0.2703125" />
         <entry key="..\:/Users/Debran/Documents/GitHub/Rick-Morty/RickAndMorty/app/src/main/res/layout/activity_main.xml" value="0.16893115942028986" />
         <entry key="..\:/Users/Debran/Documents/GitHub/Rick-Morty/RickAndMorty/app/src/main/res/layout/activity_splash_screen.xml" value="0.2259963768115942" />
         <entry key="..\:/Users/Debran/Documents/GitHub/Rick-Morty/RickAndMorty/app/src/main/res/layout/fragment_characters.xml" value="0.2259963768115942" />
         <entry key="..\:/Users/Debran/Documents/GitHub/Rick-Morty/RickAndMorty/app/src/main/res/layout/fragment_episodes.xml" value="0.2259963768115942" />
         <entry key="..\:/Users/Debran/Documents/GitHub/Rick-Morty/RickAndMorty/app/src/main/res/layout/fragment_location.xml" value="0.2259963768115942" />
+        <entry key="..\:/Users/Debran/Documents/GitHub/Rick-Morty/RickAndMorty/app/src/main/res/layout/item_character.xml" value="0.72" />
+        <entry key="..\:/Users/Debran/Documents/GitHub/Rick-Morty/RickAndMorty/app/src/main/res/layout/item_episode.xml" value="0.536" />
+        <entry key="..\:/Users/Debran/Documents/GitHub/Rick-Morty/RickAndMorty/app/src/main/res/layout/item_location.xml" value="1.0" />
         <entry key="..\:/Users/Debran/Documents/GitHub/Rick-Morty/RickAndMorty/app/src/main/res/menu/bottom_navigation.xml" value="0.25416666666666665" />
       </map>
     </option>
